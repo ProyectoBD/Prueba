@@ -204,8 +204,7 @@ return  true;
 <div id="Layer6">
   <div align="center">
     <p class="Estilo1">&nbsp;</p>
-    <p class="Estilo1">Nomina Empleados</p>
-    <p><span class="Estilo1">Proyecto</span></p>
+    <p class="Estilo1">&nbsp;</p>
   </div>
 </div>
 <div id="Layer7">
@@ -298,6 +297,5 @@ else
   </span></div>
 </div>
 <div id="Layer13"></div>
-<div id="Layer14">Cambio</div>
 </body>
 </html>
