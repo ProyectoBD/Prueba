@@ -209,7 +209,7 @@ return  true;
 </div>
 <div id="Layer7">
   <div id="Layer8">
-    <div align="center"><img src="../nominaEmpleados_Fatyma/logocecyteg.jpg" width="118" height="121"></div>
+    <div align="center"></div>
   </div>
   <div id="Layer12">
     <div align="center"></div>
